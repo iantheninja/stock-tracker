@@ -14,3 +14,14 @@
  *= require_tree .
  *= require_self
  */
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.stock-bg {
+  height: 100%;
+  width: 100%;
+  background: url('/assets/rsz_bg.jpg');
+}
