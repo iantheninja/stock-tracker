@@ -23,5 +23,68 @@ html, body {
 .stock-bg {
   height: 100%;
   width: 100%;
+  margin-top: -20px;
   background: url('/assets/rsz_bg.jpg');
+}
+
+.overlay {
+  color: #ffffff;
+  text-align: center;
+  padding-top: 20%;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.contain {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 20px;
+}
+
+.text1 {
+  text-align: center;
+  font-size: 2em;
+}
+
+.header-text {
+  font-size: 32px;
+  text-align: center;
+}
+
+#image1 {
+  background-image: url('/assets/createprof.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 128px;
+}
+
+#image2 {
+  background-image: url('/assets/portfolio.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 128px;
+}
+
+#image3 {
+  background-image: url('/assets/stockperform.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 128px;
+}
+
+#image4 {
+  background-image: url('/assets/soundidea.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 128px;
+}
+
+footer {
+  text-align: center;
+  background-color: #565a5c;
+  color: #ffffff;
+  height: 70px;
+  padding-top: 30px;
+  margin-top: 20px;
 }
