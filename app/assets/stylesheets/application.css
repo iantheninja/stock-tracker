@@ -24,7 +24,7 @@ html, body {
   height: 100%;
   width: 100%;
   margin-top: -20px;
-  background: url('/assets/rsz_bg.jpg');
+  background: url('public/assets/rsz_bg.jpg');
 }
 
 .overlay {
