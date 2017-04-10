@@ -22,5 +22,6 @@ init_friend_lookup = function(){
 }
 
 $(document).ready(function(){
+  console.log("page initialized")
   init_friend_lookup();
 });
