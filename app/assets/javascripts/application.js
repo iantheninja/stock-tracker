@@ -21,5 +21,6 @@ var hide_spinner = function(){
 }
 
 var show_spinner = function(){
+	console.log("spinner clicked");
   $('#spinner').show();
 }
