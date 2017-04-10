@@ -22,6 +22,6 @@ var init_stock_lookup = function(){
 }
 
 $(document).ready(function(){
-    console.log("page started")
+    console.log("stock page started")
   init_stock_lookup();
 });
