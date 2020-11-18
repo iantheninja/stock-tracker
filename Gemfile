@@ -13,7 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
-gem 'stock_quote'
+gem "stock_quote", '~> 3.0.0'
 
 group :development, :test do
   gem 'byebug'
